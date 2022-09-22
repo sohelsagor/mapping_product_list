@@ -1,0 +1,18 @@
+[
+  {
+    "tile": "Call Father",
+    "dico": "This is description1"
+  },
+  {
+    "tile": "Call Mother",
+    "dico": "This is description2"
+  },
+  {
+    "tile": "Call Brother",
+    "dico": "This is description3"
+  },
+  {
+    "tile": "Call Sister",
+    "dico": "This is description4"
+  }
+]
